@@ -26,13 +26,12 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
-![Mobile](./images/mobile.png)
-![Desktop](./images/desktop.png)
-
+Mobile
 ![Mobile](https://github.com/EduCreative/FrontendMentor-stats-preview-card-component/assets/108581855/37a7f0a3-ae7a-4ec7-a50c-b272ef8e5a3c)
-![Uploading Desktop.png…]()
 
+Desktop
+
+![Desktop](
 ### Links
 
 - Solution URL: [solution URL ](https://github.com/EduCreative/FrontendMentor-stats-preview-card-component.git)
