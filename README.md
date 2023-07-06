@@ -31,8 +31,7 @@ Mobile
 ![Mobile](https://github.com/EduCreative/FrontendMentor-stats-preview-card-component/assets/108581855/37a7f0a3-ae7a-4ec7-a50c-b272ef8e5a3c)
 
 Desktop
-![Desktop](![Desktop](https://github.com/EduCreative/FrontendMentor-stats-preview-card-component/assets/108581855/4726f8f8-39f9-48a3-a3ee-5cb02b5091ff)
-)
+(![Desktop](https://github.com/EduCreative/FrontendMentor-stats-preview-card-component/assets/108581855/4726f8f8-39f9-48a3-a3ee-5cb02b5091ff)
 
 ### Links
 
