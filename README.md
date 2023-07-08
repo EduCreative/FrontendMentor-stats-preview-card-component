@@ -14,9 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)  
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -46,6 +43,7 @@ Desktop
 - CSS3
 - Flexbox
 - Mobile-first workflow
+- VS Code
 
 ### What I learned
 
@@ -57,6 +55,6 @@ I need to design more of these challenges to get comfortable different types of 
 
 ## Author
 
-- Website - [Add your name here](https://educreative.github.io/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EduCreative)
-- Twitter - [@yourusername](https://www.twitter.com/Creativework7)
+- Website - [Masroor Khan ](https://educreative.github.io/)
+- Frontend Mentor - [@EduCreative](https://www.frontendmentor.io/profile/EduCreative)
+- Twitter - [@CreativeWork7](https://www.twitter.com/Creativework7)
